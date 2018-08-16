@@ -1,0 +1,9 @@
+.\objects\initsys.o: workspace\Code\src\initSys.c
+.\objects\initsys.o: .\workspace\Code\inc\initSys.h
+.\objects\initsys.o: .\workspace\CMSIS\inc\stm32f4xx.h
+.\objects\initsys.o: .\workspace\CMSIS\inc\core_cm4.h
+.\objects\initsys.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\initsys.o: .\workspace\CMSIS\inc\core_cmInstr.h
+.\objects\initsys.o: .\workspace\CMSIS\inc\core_cmFunc.h
+.\objects\initsys.o: .\workspace\CMSIS\inc\core_cm4_simd.h
+.\objects\initsys.o: .\workspace\CMSIS\inc\system_stm32f4xx.h

@@ -1,0 +1,13 @@
+--create .\Objects\0005.lib
+.\objects\main.o
+.\objects\system_stm32f4xx.o
+.\objects\croutine.o
+.\objects\event_groups.o
+.\objects\heap_1.o
+.\objects\list.o
+.\objects\port.o
+.\objects\queue.o
+.\objects\stream_buffer.o
+.\objects\tasks.o
+.\objects\timers.o
+.\objects\startup_stm32f407xx.o

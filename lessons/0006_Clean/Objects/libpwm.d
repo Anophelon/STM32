@@ -1,0 +1,9 @@
+.\objects\libpwm.o: workspace\Code\src\libPWM.c
+.\objects\libpwm.o: .\workspace\Code\inc\libPWM.h
+.\objects\libpwm.o: .\workspace\CMSIS\inc\stm32f4xx.h
+.\objects\libpwm.o: .\workspace\CMSIS\inc\core_cm4.h
+.\objects\libpwm.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\libpwm.o: .\workspace\CMSIS\inc\core_cmInstr.h
+.\objects\libpwm.o: .\workspace\CMSIS\inc\core_cmFunc.h
+.\objects\libpwm.o: .\workspace\CMSIS\inc\core_cm4_simd.h
+.\objects\libpwm.o: .\workspace\CMSIS\inc\system_stm32f4xx.h

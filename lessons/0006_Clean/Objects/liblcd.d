@@ -1,0 +1,9 @@
+.\objects\liblcd.o: workspace\Code\src\libLCD.c
+.\objects\liblcd.o: .\workspace\Code\inc\libLCD.h
+.\objects\liblcd.o: .\workspace\CMSIS\inc\stm32f4xx.h
+.\objects\liblcd.o: .\workspace\CMSIS\inc\core_cm4.h
+.\objects\liblcd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\liblcd.o: .\workspace\CMSIS\inc\core_cmInstr.h
+.\objects\liblcd.o: .\workspace\CMSIS\inc\core_cmFunc.h
+.\objects\liblcd.o: .\workspace\CMSIS\inc\core_cm4_simd.h
+.\objects\liblcd.o: .\workspace\CMSIS\inc\system_stm32f4xx.h
